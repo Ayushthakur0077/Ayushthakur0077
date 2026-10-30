@@ -15,7 +15,7 @@ I build and automate cloud infrastructure, containerized environments, and seaml
 
 ---
 
-### 💻 Tech Stack (Selective)
+### 💻 Tech Stack 
 
 * **Cloud & DevOps:** AWS (IAM, EC2, Security Groups), Docker, Linux, Bash Scripting
 * **Languages:** Python, Java, Bash
