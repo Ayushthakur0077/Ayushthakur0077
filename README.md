@@ -18,7 +18,7 @@ I build and automate cloud infrastructure, containerized environments, and seaml
 ### 💻 Tech Stack 
 
 * **Cloud & DevOps:** AWS (IAM, EC2, Security Groups), Docker, Linux, Bash Scripting
-* **Languages:** Python, Java, Bash
+* **Languages:** Python, Bash
 * **Tools:** Git, GitHub Desktop, Nginx, 
 
 ---
@@ -36,7 +36,8 @@ I build and automate cloud infrastructure, containerized environments, and seaml
 
 ### 📫 Connect with Me
 
-* **GitHub:** [github.com/ayushthakur0077](https://github.com/ayushthakur0077)
+* **LINKEDIN:** [www.linkedin.com/in/ayush-t-426b66443]
+
 *
 
 <!--
